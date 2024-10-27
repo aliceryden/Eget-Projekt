@@ -4,7 +4,7 @@ from datetime import datetime
 from PyQt5.QtWidgets import (QApplication, QInputDialog, QDialog, QMessageBox, QVBoxLayout, QCalendarWidget, QPushButton, QLabel, QLineEdit, QComboBox)
 import sys
 
-
+# fhfj
 class Häst:
     def __init__(self, namn, pris_per_kilo):
         self.namn = namn
